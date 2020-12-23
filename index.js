@@ -12,4 +12,9 @@ function persistence(num) {
 
 
 
+      persistence(77) //expected result 4
+      persistence(4) //expected result 0
+      persistence(69) //expected result 3
+    
+
 
